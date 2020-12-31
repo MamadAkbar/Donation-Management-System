@@ -4,6 +4,7 @@
 ![homepage2](https://user-images.githubusercontent.com/68014307/103395893-69d88400-4b56-11eb-8389-e37b292ce65b.jpg)
 <br><b>User can view the patient list who are admitted and need donation. </b><br><br>
 ![patient details](https://user-images.githubusercontent.com/68014307/103395900-6e04a180-4b56-11eb-9db1-7ce2722ebd62.jpg)
+<br><b>User can check the details of particular patient and also can donate donation for that patient.</b><br><br>
 ![patient list](https://user-images.githubusercontent.com/68014307/103395903-7230bf00-4b56-11eb-92b3-56e17046b1ba.jpg)
 ![login for donar](https://user-images.githubusercontent.com/68014307/103395906-765cdc80-4b56-11eb-90da-d22a6fb420e1.jpg)
 ![donor signup](https://user-images.githubusercontent.com/68014307/103395911-7bba2700-4b56-11eb-8f94-eed3a34950bd.jpg)
