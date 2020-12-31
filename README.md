@@ -1,5 +1,6 @@
 # Donation-Management-System
 ![homepage1](https://user-images.githubusercontent.com/68014307/103395890-6513d000-4b56-11eb-9d79-cebdc56ec05d.jpg)
+<br><b>This is home page It’s shows basic information of site.</b><br><br>
 ![homepage2](https://user-images.githubusercontent.com/68014307/103395893-69d88400-4b56-11eb-8389-e37b292ce65b.jpg)
 ![patient details](https://user-images.githubusercontent.com/68014307/103395900-6e04a180-4b56-11eb-9db1-7ce2722ebd62.jpg)
 ![patient list](https://user-images.githubusercontent.com/68014307/103395903-7230bf00-4b56-11eb-92b3-56e17046b1ba.jpg)
