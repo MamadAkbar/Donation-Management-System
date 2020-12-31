@@ -38,7 +38,7 @@
 <br><b>Admin can check the donation detail of particular patient.</b><br><br>
 ![8](https://user-images.githubusercontent.com/68014307/103395973-b7ed8780-4b56-11eb-815e-47bc7cbacb78.jpg)
 <br><b>Admin can add new donation.</b><br><br>
-![9](https://user-images.githubusercontent.com/68014307/103395981-be7bff00-4b56-11eb-9997-41a4315198ed.jpg)<br>
+![9](https://user-images.githubusercontent.com/68014307/103395981-be7bff00-4b56-11eb-9997-41a4315198ed.jpg)
 <br><b>Donation Receipt</b><br><br>
 ![10](https://user-images.githubusercontent.com/68014307/103395983-c20f8600-4b56-11eb-9983-1a43ef4b9dd2.jpg)
 <br><b>Patient Receipt</b><br><br>
