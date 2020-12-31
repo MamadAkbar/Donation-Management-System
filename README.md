@@ -13,8 +13,11 @@
 ![donor signup](https://user-images.githubusercontent.com/68014307/103395911-7bba2700-4b56-11eb-8f94-eed3a34950bd.jpg)
 ![donar signup2](https://user-images.githubusercontent.com/68014307/103395915-81177180-4b56-11eb-9127-fe77bd4aadb3.jpg)
 <br><b>Donor can signup and create new account.</b><br><br>
+
 ![patient req1](https://user-images.githubusercontent.com/68014307/103395920-85dc2580-4b56-11eb-9dde-e5233ef68fa8.jpg)
 ![patient req2](https://user-images.githubusercontent.com/68014307/103395923-8aa0d980-4b56-11eb-8d3b-d08796a5d3f8.jpg)
+<br><b>Patient request page.</b><br><br>
+
 ![p list](https://user-images.githubusercontent.com/68014307/103395930-9096ba80-4b56-11eb-8ab1-69fe4dbe5147.jpg)
 ![1](https://user-images.githubusercontent.com/68014307/103395935-95f40500-4b56-11eb-8e37-babe2f23abdc.jpg)
 ![2](https://user-images.githubusercontent.com/68014307/103395941-9be9e600-4b56-11eb-8cd0-2e5de5496e67.jpg)
