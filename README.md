@@ -20,13 +20,20 @@
 
 <br>#Admin Site
 ![p list](https://user-images.githubusercontent.com/68014307/103395930-9096ba80-4b56-11eb-8ab1-69fe4dbe5147.jpg)
-<br<b>Patient List.</b><br><br>
+<br><b>Patient List.</b><br><br>
+
 ![1](https://user-images.githubusercontent.com/68014307/103395935-95f40500-4b56-11eb-8e37-babe2f23abdc.jpg)
 ![2](https://user-images.githubusercontent.com/68014307/103395941-9be9e600-4b56-11eb-8cd0-2e5de5496e67.jpg)
 ![3](https://user-images.githubusercontent.com/68014307/103395947-a2785d80-4b56-11eb-8ec6-519b37441ffd.jpg)
+<br><b>Admin can add new patient.<b><br><br>
+  
 ![4](https://user-images.githubusercontent.com/68014307/103395950-a6a47b00-4b56-11eb-85f1-e8eeb2f1dd80.jpg)
+<br><b>Donor List</b><br><br>
 ![5](https://user-images.githubusercontent.com/68014307/103395956-ac01c580-4b56-11eb-914b-84d3a04ca65d.jpg)
+<br><b>Admin can add new donor.</b><br><br>
 ![6](https://user-images.githubusercontent.com/68014307/103395963-af954c80-4b56-11eb-96b9-a2c6c280b137.jpg)
+<br><b>Admin can check donation detail.</b><br><br>
+
 ![7](https://user-images.githubusercontent.com/68014307/103395968-b328d380-4b56-11eb-8fa8-adafd91f98c9.jpg)
 ![8](https://user-images.githubusercontent.com/68014307/103395973-b7ed8780-4b56-11eb-815e-47bc7cbacb78.jpg)
 ![9](https://user-images.githubusercontent.com/68014307/103395981-be7bff00-4b56-11eb-9997-41a4315198ed.jpg)
