@@ -9,8 +9,10 @@
 
 ![login for donar](https://user-images.githubusercontent.com/68014307/103395906-765cdc80-4b56-11eb-90da-d22a6fb420e1.jpg)
 <br><b>Login page for donor.<b><br><br>
+  
 ![donor signup](https://user-images.githubusercontent.com/68014307/103395911-7bba2700-4b56-11eb-8f94-eed3a34950bd.jpg)
 ![donar signup2](https://user-images.githubusercontent.com/68014307/103395915-81177180-4b56-11eb-9127-fe77bd4aadb3.jpg)
+<br><b>Donor can signup and create new account.</b><br><br>
 ![patient req1](https://user-images.githubusercontent.com/68014307/103395920-85dc2580-4b56-11eb-9dde-e5233ef68fa8.jpg)
 ![patient req2](https://user-images.githubusercontent.com/68014307/103395923-8aa0d980-4b56-11eb-8d3b-d08796a5d3f8.jpg)
 ![p list](https://user-images.githubusercontent.com/68014307/103395930-9096ba80-4b56-11eb-8ab1-69fe4dbe5147.jpg)
